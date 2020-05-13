@@ -1,113 +1,130 @@
 Blogs/Podcasts
 ===============
 
-[Hacker News for Data Science](http://www.datatau.com/news)
+[Hacker News for Data Science](https://www.datatau.com/news)
+[LightTag's Labeled Data Blog](https://lighttag.io/blog)
 
 Podcasts
 --------
 
 [The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
 
-[Partially Derivative](http://www.partiallyderivative.com/)
+[Partially Derivative](http://partiallyderivative.com/)
 
-[The Talking Machines](http://www.thetalkingmachines.com/)
+[The Talking Machines](https://www.thetalkingmachines.com/)
 
-[The Data Skeptic](http://dataskeptic.com/)
+[The Data Skeptic](https://dataskeptic.com/)
 
-[Linear Digressions](https://www.udacity.com/podcasts/linear-digressions)
+[Linear Digressions](https://lineardigressions.com)
 
 [Data Stories](http://datastori.es/)
 
-[Learning Machines 101](http://www.learningmachines101.com/)
+[Learning Machines 101](https://www.learningmachines101.com/)
 
-[Not So Standard Deviations](http://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
+[Not So Standard Deviations](https://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
+
+[TWIMLAI](https://twimlai.com/shows/)
+
+[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
+Newsletters
+-----------
+
+[AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 Data Science / Statistics
 -------------------------
 
-http://iamtrask.github.io/
+https://blog.dominodatalab.com
 
-http://blog.explainmydata.com/
+https://ahmedbesbes.com/
 
-http://andrewgelman.com/
+https://jeremykun.com/
 
-http://simplystatistics.org/
+https://iamtrask.github.io/
 
-http://www.evanmiller.org/
+https://blog.explainmydata.com/
 
-http://jakevdp.github.io/
+https://statmodeling.stat.columbia.edu
 
-http://blog.yhathq.com/
+https://simplystatistics.org/
 
-http://blog.wesmckinney.com/
+https://www.evanmiller.org/
 
-http://www.overkillanalytics.net/
+https://jakevdp.github.io/
 
-http://newton.cx/~peter/
+http://wesmckinney.com
 
-http://mbakker7.github.io/exploratory_computing_with_python/
+https://www.overkillanalytics.net/
 
-http://sebastianraschka.com/articles.html
+https://newton.cx/~peter/
 
-http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+https://mbakker7.github.io/exploratory_computing_with_python/
 
-http://colah.github.io/
+https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
-http://snippyhollow.github.io/
+https://colah.github.io/
 
-http://www.thomasdimson.com/
-
-http://blog.smellthedata.com/
-
-http://sebastianraschka.com/
+https://sebastianraschka.com/
 
 http://dogdogfish.com/
 
-http://www.johnmyleswhite.com/
+https://www.johnmyleswhite.com/
 
 http://drewconway.com/zia/
 
-http://bugra.github.io/
+https://bugra.github.io/
 
 http://opendata.cern.ch/
 
-http://alexanderetz.com/
+https://alexanderetz.com/
 
 http://www.sumsar.net/
 
-http://countbayesie.com
+https://www.countbayesie.com
 
-http://karpathy.github.io/
-
-http://blog.dato.com/
+https://karpathy.github.io/  https://medium.com/@karpathy
 
 http://blog.kaggle.com/
 
-http://www.danvk.org/
+https://www.danvk.org/
 
 http://hunch.net/
 
 http://www.randalolson.com/blog/
 
-http://www.johndcook.com/blog/r_language_for_programmers/
+https://www.johndcook.com/blog/r_language_for_programmers/
 
-http://www.dataschool.io/
+https://www.dataschool.io/
+
+https://www.datasciencecentral.com
+
+https://mubaris.com
+
+https://distill.pub
+
+http://blog.shakirm.com/
+
+https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+
+[LightTag NLP Blog](https://www.lighttag.io/blog)
 
 Math
 ----
 
-http://www.sumsar.net/
+https://www.allendowney.com/blog/
 
-http://allendowney.blogspot.ca/
+https://healthyalgorithms.com/
 
-http://healthyalgorithms.com/
+https://petewarden.com/
 
-http://petewarden.com/
+https://blog.mrtz.org
 
-http://mrtz.org/blog/
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
 
+https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
 
 Security Related
 ----------------
 
-http://jordan-wright.github.io/blog/
+https://jordan-wright.com/blog/
